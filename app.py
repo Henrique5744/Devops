@@ -27,3 +27,4 @@ if __name__ == "__main__":
         teste = "52998224725"
         resultado = validar_cpf(teste)
         print(f"CPF {teste} é válido? {resultado}")
+        print("Validador feito pelo Rick com sucesso")
